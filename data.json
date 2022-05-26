@@ -1,0 +1,24 @@
+{
+    "name": "Tushar",
+    "age": 30,
+    "Email": "yadavt2gmail.com",
+    "programming": ["Java", "HTML", "Python", "JS"],
+    "Experiene" : [
+        {
+            "company_name": "HCL",
+            "Years" : 2,
+            "Location" : "noida"
+        },
+        {
+            "company_name": "HCL",
+            "Years" : 2,
+            "Location" : "noida"
+        },
+        {
+            "company_name": "HCL",
+            "Years" : 2,
+            "Location" : "noida"
+        }
+    ]
+
+}
